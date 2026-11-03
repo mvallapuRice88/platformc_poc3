@@ -1,6 +1,6 @@
 # Platform C PoC3 telemetry anomaly benchmark
 
-This repository contains two offline research workflows for the PoC3 COSMOS telemetry files. It does not issue spacecraft commands, automate mitigation, or classify confirmed cyberattacks. test
+This repository contains two offline research workflows for the PoC3 COSMOS telemetry files. It does not issue spacecraft commands, automate mitigation, or classify confirmed cyberattacks. 
 
 ## Workflows
 
