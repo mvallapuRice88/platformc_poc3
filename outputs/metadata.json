@@ -1,0 +1,28 @@
+{
+  "features": [
+    "RAW_MAG_X",
+    "RAW_MAG_Y",
+    "RAW_MAG_Z",
+    "BATT_VOLTAGE",
+    "BATT_CURRENT",
+    "LOAD_BUS_CURRENT",
+    "LOAD_POWER",
+    "BVB_X",
+    "BVB_Y",
+    "BVB_Z",
+    "MCMD_X",
+    "MCMD_Y",
+    "MCMD_Z",
+    "TORQUER_PERCENT_ON_0",
+    "TORQUER_PERCENT_ON_1",
+    "TORQUER_PERCENT_ON_2"
+  ],
+  "notes": [
+    "Switch-on proxy labels are NOT confirmed cyberattack labels",
+    "Independent runs are not matched counterfactuals",
+    "ADCS DT differs between nominal and anomaly runs",
+    "Scores are not calibrated confidence",
+    "No command provenance, authentication, or communication cyber evidence",
+    "Point-level evaluation only"
+  ]
+}

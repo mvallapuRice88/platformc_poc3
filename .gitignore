@@ -1,6 +1,6 @@
 .venv/
 __pycache__/
-data/*
+# data/*
 !data/.gitkeep
-outputs/*
+# outputs/*
 !outputs/.gitkeep
